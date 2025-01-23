@@ -43,6 +43,6 @@
 
 ------
 
-Credit: [Anderson Mendoza](https://github.com/andermendoza)
+Credit: [ADARSH SG](https://github.com/Adarsh572sg/Adarsh572sg/edit/main/README.md)
 
-Last Edited on: 26/09/2022
+Last Edited on: 23/01/2025
