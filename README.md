@@ -1,4 +1,9 @@
 <!-- RAINBOW LINE TOP -->
+[MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Adarsh572sg&label=Profile%20views&color=0e75b6&style=flat" alt="Adarsh572sg" /> </p>
+
+<img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+</div>
 
 <img src="https://github.com/ADARSH SG/ADARSH SG/raw/main/assets/line-neon.gif" width="100%">
 
