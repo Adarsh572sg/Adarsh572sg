@@ -1,5 +1,4 @@
 <!-- RAINBOW LINE TOP -->
-<img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 <img src="https://github.com/ADARSH SG/ADARSH SG/raw/main/assets/line-neon.gif" width="100%">
 
