@@ -14,7 +14,7 @@
 - **Version Control:** Git & GitHub
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarsh572sg&show_icons=true&theme=radical)
 
 ## 📫 Contact Me
 - 📧 Email: asg130022@gmail.com
@@ -28,8 +28,8 @@
 <div align="center">
   <a href="https://github.com/tanyagupta0201">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!!💕&center=true&color=FF0000" alt="Typing SVG">
----
-🚀 *Let's build something amazing together!*
+    
+  🚀 *Let's build something amazing together!*
 
 
 Credit: [ADARSH SG](https://github.com/Adarsh572sg/Adarsh572sg/edit/main/README.md)
