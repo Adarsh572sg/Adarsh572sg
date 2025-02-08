@@ -1,25 +1,19 @@
-# Hi there! 👋 I'm [Adarsh S G]  
+# 👋 Hi, I'm [ADARSH SG]  
 
-## 🚀 About Me
-- 🎓 Studying AI, ML, Robotics & Data Science
-- 💻 ITI in COPA completed
-- 🔍 Passionate about technology & automation
-- 🚀 Always exploring new tech & frameworks
+💡 Currently learning **Excel, Power BI, SQL, and Data Science**  
+📊 Passionate about **Data Analytics, Automation, and AI**  
+🚀 Exploring **Machine Learning and Robotics**  
 
-## 🛠️ Skills & Tools
-- **Programming:** Python,JavaScript
-- **AI & ML:** , Scikit-learn
-- **Robotics:** ROS, Arduino, Raspberry Pi
-- **Data Science:** Pandas, NumPy, Matplotlib
-- **Version Control:** Git & GitHub
+### 🛠️ Skills  
+- **Data Analysis:** Excel, Power BI, SQL  
+- **Programming:** Python, SQL  
+- **Visualization:** Power BI, Matplotlib, Seaborn  
+- **AI & ML:** TensorFlow, Scikit-Learn (beginner)  
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarsh572sg&show_icons=true&theme=radical)
+### 🔗 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adarsh-s-g-a58665293/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Adarsh572sg)  
 
-## 📫 Contact Me
-- 📧 Email: asg130022@gmail.com
-- 🔗 LinkedIn:(https://www.linkedin.com/in/adarsh-s-g-a58665293/)
-- 🐦 Instagram:(https://www.instagram.com/)
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adarsh572sg&theme=default" height="180em" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh572sg&theme=default"/>
