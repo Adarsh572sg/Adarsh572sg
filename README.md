@@ -2,13 +2,10 @@
 
 💡 Currently learning **Excel, Power BI, SQL, and Data Science**  
 📊 Passionate about **Data Analytics, Automation, and AI**  
-🚀 Exploring **Machine Learning and Robotics**  
-
 ### 🛠️ Skills  
 - **Data Analysis:** Excel, Power BI, SQL  
 - **Programming:** Python, SQL  
 - **Visualization:** Power BI, Matplotlib, Seaborn  
-- **AI & ML:** TensorFlow, Scikit-Learn (beginner)  
 
 ### 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adarsh-s-g-a58665293/)  
