@@ -1,99 +1,147 @@
-# Hi 👋, I'm Adarsh S G
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Adarsh S G
 
-### 📊 Aspiring Data Analyst | AI & Data Analytics Graduate
+<div align="center">
 
-🎓 NSDC & NASSCOM Certified AI & Data Analytics Professional (94.4%)
+### 📊 Data Analyst | AI & Data Analytics Graduate
 
-💡 Passionate about Data Analytics, Business Intelligence, Machine Learning, and AI.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Power+BI+Developer;Python+%7C+SQL+%7C+Excel;Machine+Learning+Enthusiast;Turning+Data+Into+Insights" />
 
-🌱 Currently learning:
-- Advanced Excel
-- Power BI
-- SQL
-- Python for Data Analytics
-- Machine Learning
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Diploma in AI & Data Analytics (Score: 94.4%)
-- 💼 Data Analytics Intern at Vynzora Pvt. Ltd.
-- 📊 Experienced in creating dashboards using Power BI and Tableau
-- 🐍 Skilled in Python, SQL, Excel, and Data Visualization
-- 📈 Interested in Data Analytics, Business Intelligence, and AI Solutions
-- 🌍 Open to Internship and Entry-Level Data Analyst Opportunities
+🎓 AI & Data Analytics Graduate (94.4%)
 
----
+💼 Data Analytics Intern
 
-## 🛠️ Technical Skills
+📈 Passionate about Data Analytics, Business Intelligence & AI
 
-### Programming
-- Python
-- SQL
-
-### Data Analysis
-- Excel
-- Power BI
-- Tableau
-
-### Databases
-- MySQL
-- PostgreSQL
-
-### Python Libraries
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-Learn
-
-### Other Skills
-- Data Cleaning
-- Data Visualization
-- Dashboard Development
+🌱 Currently Learning:
+- Advanced Power BI
+- SQL Optimization
 - Machine Learning
-- Business Intelligence
+- Data Science
 
 ---
 
-## 📂 Featured Projects
+## 🛠 Tech Stack
 
-### 📌 Global COVID-19 Vaccination Analysis
-- Data Cleaning and Analysis using Python
-- Interactive Power BI Dashboard
-- Forecasting Vaccination Trends
+### 💻 Programming Languages
 
-### 📌 Road Accident Severity Prediction
-- Machine Learning Models
-- Data Preprocessing & Feature Engineering
-- Power BI Dashboard for Insights
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 📌 Agricultural Transformation in Kerala (2000–2025)
-- Tableau & Power BI Dashboard
-- Agricultural Trend Analysis
-- Sustainability Insights
-
-### 📌 Student Mental Health Analysis
-- Data Analysis using Python
-- Dashboard Development
-- Educational Insights
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 📜 Certifications
+### 📊 Data Analytics Tools
 
-🏆 AI & Data Analytics Diploma (NSDC & NASSCOM Certified)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-🏆 IBM Python 101 for Data Science
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-🏆 NumPy for Data Science
-
-🏆 Machine Learning for Beginners
-
-🏆 Microsoft Excel: Formulas & Functions
-
-🏆 K-DISC Personal Development Training Programme
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 ---
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adarsh572sg&theme=default" height="180em" /> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2> <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh572sg&theme=default"/> <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" /> <div align="center"> <a href="https://github.com/tanyagupta0201"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!!💕&center=true&color=FF0000" alt="Typing SVG">
+### 🗄 Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 📂 Projects
+
+### 🌍 Global COVID-19 Vaccination Analysis
+✔ Python Analysis  
+✔ Power BI Dashboard  
+✔ Forecasting Models
+
+### 🚗 Road Accident Severity Prediction
+✔ Machine Learning Models  
+✔ Data Preprocessing  
+✔ Dashboard Development
+
+### 🌾 Agricultural Transformation in Kerala
+✔ Tableau Dashboard  
+✔ Power BI Dashboard  
+✔ Trend Analysis
+
+### 🧠 Student Mental Health Analysis
+✔ Data Visualization  
+✔ Educational Insights  
+✔ Python Analytics
+
+---
+
+## 🏆 Certifications
+
+✅ AI & Data Analytics Diploma
+
+✅ IBM Python for Data Science
+
+✅ Machine Learning for Beginners
+
+✅ NumPy for Data Science
+
+✅ Excel Formulas & Functions
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Adarsh572sg&show_icons=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh572sg&layout=compact"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh572sg"/>
+</p>
+
+---
+
+## 📊 Profile Summary
+
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adarsh572sg&theme=github"/>
+</p>
+
+---
+
+## ⚡ Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh572sg"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adarsh-s-g-a58665293)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Adarsh572sg)
+
+📧 Email: asg130022@gmail.com
+
+---
+
+<div align="center">
+
+### 💡 "Without data, you're just another person with an opinion."
+
+⭐ Thanks for visiting my profile ⭐
+
+</div>
