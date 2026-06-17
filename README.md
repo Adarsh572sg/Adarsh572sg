@@ -96,26 +96,4 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Adarsh572sg&show_icons=true&theme=default)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Adarsh572sg)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh572sg&layout=compact)
-
----
-
-## 📫 Connect With Me
-
-🔗 LinkedIn: www.linkedin.com/in/adarsh-s-g-a58665293/
-
-🔗 GitHub: https://github.com/Adarsh572sg
-
-📧 Email: asg130022@gmail.com
-
----
-
-### ⭐ "Turning Data into Insights and Insights into Decisions"
-
-Thanks for visiting my profile! 🚀
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adarsh572sg&theme=default" height="180em" /> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2> <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh572sg&theme=default"/> <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" /> <div align="center"> <a href="https://github.com/tanyagupta0201"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!!💕&center=true&color=FF0000" alt="Typing SVG">
