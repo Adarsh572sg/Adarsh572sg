@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-🎓 AI & Data Analytics Graduate (94.4%)
+🎓 AI & Data Engineer Graduate (94.4%)
 
 💼 Data Analytics Intern
 
@@ -80,7 +80,8 @@
 
 ## 🏆 Certifications
 
-✅ AI & Data Analytics Diploma
+✅ AI & Data Engineer 
+Diploma
 
 ✅ IBM Python for Data Science
 
