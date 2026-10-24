@@ -118,6 +118,16 @@ Diploma
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adarsh572sg&them
 
+
+
+## ⚡ GitHub Activity Graph
+
+<div align="center">
+
+[![Adarsh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adarsh572sg&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Adarsh572sg)
+
+</div>
+
 ---
 
 ## 🌐 Connect With Me
