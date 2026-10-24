@@ -116,16 +116,7 @@ Diploma
 ## 📊 Profile Summary
 
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adarsh572sg&theme=github"/>
-</p>
-
----
-
-## ⚡ Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh572sg"/>
-</p>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adarsh572sg&them
 
 ---
 
